@@ -55,7 +55,7 @@ describe("Twitter CRUD", function () {
     assert.equal(oldTweets.length - 1, tweets.length);
   });
 
-  it("Delete Tweet Fail with Tweet Not Found", async function () {
+  it("Delete Tweet Fail with Tweet Not Exist", async function () {
     const Tweet = await ethers.getContractFactory("Twitter");
     const hardhatTweet = await Tweet.deploy();
 
