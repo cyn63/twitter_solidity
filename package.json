@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sjytis14/decentralised-light-Twitter.git"
+    "url": "git+https://github.com/cyn63/twitter_solidity.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sjytis14/decentralised-light-Twitter/issues"
+    "url": "https://github.com/cyn63/twitter_solidity.git"
   },
-  "homepage": "https://github.com/sjytis14/decentralised-light-Twitter#readme",
+  "homepage": "https://github.com/cyn63/twitter_solidity.git#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
     "@babel/eslint-parser": "^7.19.1",
